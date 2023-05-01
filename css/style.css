@@ -333,7 +333,7 @@ html, body{
   background: #f6f6f6;
 }
 .grade_wrap .inner_box{
-  width: 75%;
+  width: 80%;
   display: flex;
   justify-content: space-around;
   padding: 110px 0;
